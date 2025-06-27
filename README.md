@@ -74,6 +74,10 @@ yarn dev
 
 Visit http://localhost:5173 to view it in your browser.
 
+## Home Page
+![image](https://github.com/user-attachments/assets/0245e9f5-3712-49e2-be87-8957faea4ae2)
+
+
 ## 📌 Roadmap
 
 - [ ] Product filtering & sorting  
