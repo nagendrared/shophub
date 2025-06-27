@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Folder Structure
-
+```
 shophub/
 ├── public/
 │ └── vite.svg
@@ -46,7 +46,7 @@ shophub/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
+```
 
 ---
 
@@ -96,6 +96,6 @@ Contributions are welcome!
 5. Open a Pull Request
 
 📬 Contact
-Nagendra Reddy Keshavareddy
-https://www.linkedin.com/in/keshavareddy-nagendra-reddy-672127256/
-https://github.com/nagendrared
+**Nagendra Reddy Keshavareddy**  
+📧 [LinkedIn](https://www.linkedin.com/in/keshavareddy-nagendra-reddy-672127256)  
+💻 [GitHub](https://github.com/nagendrared)
